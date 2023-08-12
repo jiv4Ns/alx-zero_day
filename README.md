@@ -1,2 +1,2 @@
 # alx-zero_day
-collaboration: be up to date
+I'm now a ALX Student, this is my first repository as a full-stack engineer
