@@ -1,2 +1,2 @@
 # alx-zero_day
-Collaboration: be up to date
+collaboration: be up to date
